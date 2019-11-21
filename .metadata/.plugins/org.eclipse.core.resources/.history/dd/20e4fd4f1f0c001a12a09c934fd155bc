@@ -30,9 +30,4 @@ public class TTK {
 	        System.out.println(driver.getTitle());
 	        driver.close();
 	}
-	
-	@Test
-	public void ttess() {
-		 System.out.println("Test Execution");
-	}
 }
