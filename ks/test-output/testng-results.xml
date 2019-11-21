@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="20887" started-at="2019-11-20T11:29:17Z" finished-at="2019-11-20T11:29:38Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="20887" started-at="2019-11-20T11:29:17Z" finished-at="2019-11-20T11:29:38Z">
+      <class name="Jen.ks.TT">
+        <test-method status="PASS" signature="tte()[pri:0, instance:Jen.ks.TT@1b604f19]" name="tte" duration-ms="9700" started-at="2019-11-20T11:29:17Z" finished-at="2019-11-20T11:29:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tte -->
+      </class> <!-- Jen.ks.TT -->
+      <class name="Jen.ks.TTK">
+        <test-method status="PASS" signature="ttes()[pri:0, instance:Jen.ks.TTK@7823a2f9]" name="ttes" duration-ms="11165" started-at="2019-11-20T11:29:27Z" finished-at="2019-11-20T11:29:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ttes -->
+      </class> <!-- Jen.ks.TTK -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
